@@ -1,1 +1,1 @@
-# git-github
+# git-github: For learning purpose.
